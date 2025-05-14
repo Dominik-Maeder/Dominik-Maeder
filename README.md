@@ -49,14 +49,6 @@ Aktuell erweitere ich meine Skills im **Backend mit Python, Django & Django REST
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dominik-Maeder&theme=tokyonight&margin-w=10&no-bg=true" />
-</p>
-
----
-
 ## 📫 Kontakt
 
 - 🌐 [Portfolio / Website](www.dominik-maeder.de)
